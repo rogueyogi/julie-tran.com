@@ -1,2 +1,2 @@
-# julie-tran.com
-web design portfolio
+# My Portfolio
+This is my portfolio

@@ -278,7 +278,7 @@ body {
 }
 
 .button {
-  -webkit-transition-duration: 0.4s; /* Safari */
+  -webkit-transition-duration: 0.4s; /* For Safari */
   transition-duration: 0.4s;
 }
 

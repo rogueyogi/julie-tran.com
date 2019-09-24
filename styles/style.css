@@ -258,3 +258,17 @@ body {
 .hero-text h2 {
   color: white;
 }
+
+.transparent-button {
+  background: none;
+  border: white;
+  border-width: 2px;
+  border-style: solid;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  padding: 12px 28px;
+  color: white;
+
+}

@@ -38,9 +38,6 @@ footer, header, hgroup, menu, nav, section {
 body {
     line-height: 1;
     width: 100vw;
-    border-style: solid;
-    border-color: #76323F;
-    border-width: 2px;
 }
 ol, ul {
 	list-style: none;

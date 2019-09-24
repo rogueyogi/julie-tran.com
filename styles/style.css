@@ -274,5 +274,15 @@ body {
   font-size: 20px;
   padding: 12px 28px;
   color: white;
+  margin: 20px;
+}
 
+.button {
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+}
+
+.button:hover {
+  background-color: #fff;
+  color: #565656;
 }

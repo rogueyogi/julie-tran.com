@@ -264,7 +264,7 @@ body {
 }
 
 .transparent-button {
-  background-color: none;
+  background-color: transparent;
   border: white;
   border-width: 5px;
   border-style: solid;

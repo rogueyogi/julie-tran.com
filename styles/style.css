@@ -232,7 +232,7 @@ body {
   overflow: hidden;
 }
 .nav li {
-  display: inline;
+  display: inline-block;
   padding: 20px;
   font-size: 20px;
 }

@@ -227,18 +227,18 @@ body {
     ======================== 
 */
 
-ul {
+.nav ul {
   background-color: black;
   overflow: hidden;
 }
-.navli li {
+.nav li {
   display: inline;
 }
 
-li a {
+.nav li a {
   color: #fff;
   text-align: center;
-  
+
 }
 
 

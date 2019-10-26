@@ -235,7 +235,7 @@ body {
   display: inline-block;
   padding: 50px;
   font-size: 20px;
-  float: right;
+  float: left;
 }
 
 .nav li a {

@@ -62,22 +62,6 @@ table {
 
 /*  
     ========================
-    body
-    ======================== 
-*/
-
-
-body {
-    padding: 0px;
-    background-color: #D7CEC7;
-}
-
-h1, h2, h3, h4, h5, h6, p, blockquote {
-  padding: 20px;
-}
-
-/*  
-    ========================
     h1, h2, p, a:link styles
     ========================
 */
@@ -237,9 +221,20 @@ body {
     }
   }
 
+/*  
+    ========================
+    header nav
+    ======================== 
+*/
+
+.navli li {
+  display: inline;
+}
+
+
 /*
     ========================
-    Classes
+    Header/Hero
     ========================
 */
 
@@ -290,4 +285,20 @@ body {
 .button:hover {
   background-color: #fff;
   color: #565656;
+}
+
+/*  
+    ========================
+    body
+    ======================== 
+*/
+
+
+body {
+  padding: 0px;
+  background-color: #D7CEC7;
+}
+
+h1, h2, h3, h4, h5, h6, p, blockquote {
+padding: 20px;
 }

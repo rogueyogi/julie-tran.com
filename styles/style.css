@@ -227,8 +227,18 @@ body {
     ======================== 
 */
 
+ul {
+  background-color: black;
+  overflow: hidden;
+}
 .navli li {
   display: inline;
+}
+
+li a {
+  color: #fff;
+  text-align: center;
+  
 }
 
 

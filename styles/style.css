@@ -227,10 +227,7 @@ body {
     ======================== 
 */
 
-nav {
-  
-}
-
+/* Unordered list container in .nav class */
 .nav ul {
   background-color: #565656;
   overflow: hidden;
@@ -241,6 +238,11 @@ nav {
 .logo {
   margin-right: auto;
   display: inline-block;
+}
+
+.logo img {
+  width: 150px;
+  vertical-align: 
 }
 
 .nav li {

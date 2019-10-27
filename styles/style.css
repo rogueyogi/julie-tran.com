@@ -240,6 +240,7 @@ nav {
 
 .logo {
   margin-right: auto;
+  display: inline-block;
 }
 
 .nav li {

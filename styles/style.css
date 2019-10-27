@@ -230,11 +230,11 @@ body {
 .nav ul {
   background-color: #565656;
   overflow: hidden;
+  float: right; 
 }
 .nav li {
   /* padding: 20px; */
   font-size: 20px;
-  float: right; 
 }
 
 .nav li a {

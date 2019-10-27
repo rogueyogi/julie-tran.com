@@ -227,10 +227,13 @@ body {
     ======================== 
 */
 
+.nav {
+  display: flex;
+}
+
 .nav ul {
   background-color: #565656;
   overflow: hidden;
-  display: flex;
   justify-content: flex-end;
 }
 

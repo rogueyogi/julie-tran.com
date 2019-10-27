@@ -228,13 +228,14 @@ body {
 */
 
 nav {
-  display: flex;
+  
 }
 
 .nav ul {
   background-color: #565656;
   overflow: hidden;
   justify-content: flex-end;
+  display: flex;
 }
 
 .logo {

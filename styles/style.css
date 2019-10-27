@@ -238,13 +238,12 @@ body {
 /* Style the logo for the nav bar */
 .logo {
   margin-right: auto;
-  display: inline-block;
 }
 
 /* Style the logo width for the nav bar */
 .logo img {
   width: 150px;
-  vertical-align: 
+  vertical-align: middle;
 }
 
 /* Style the list items in the nav bar */

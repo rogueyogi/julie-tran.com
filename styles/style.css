@@ -256,7 +256,7 @@ body {
 }
 
 .active {
-  background-color: #76323F;
+  background-color: #fd7a43;
 }
 
 /*
@@ -312,6 +312,25 @@ body {
 .button:hover {
   background-color: #fff;
   color: #565656;
+}
+
+/*  
+    =================================
+    3-part menu in flex container
+    ================================= 
+*/
+
+.flex-container {
+  display: flex;
+  justify-content: center;
+  background-color: #fd7a43;
+}
+
+.flex-container > div {
+  width: 100px;
+  margin: 20px;
+  text-align: center;
+  font-size: 30px;
 }
 
 /*  

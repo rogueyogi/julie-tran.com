@@ -227,13 +227,22 @@ body {
     ======================== 
 */
 
-/* Unordered list container in .nav class */
+/* Style the nav bar */
+.nav {
+  background-color: #565656;
+  overflow: hidden;
+  justify-content: flex-end;
+  display: flex;
+}
+
+/*  
 .nav ul {
   background-color: #565656;
   overflow: hidden;
   justify-content: flex-end;
   display: flex;
 }
+*/
 
 /* Style the logo for the nav bar */
 .logo {

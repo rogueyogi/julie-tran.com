@@ -244,6 +244,9 @@ body {
   text-decoration: none;
 }
 
+.nav li a:hover {
+  background-color: blue;
+}
 
 /*
     ========================

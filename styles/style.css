@@ -235,20 +235,24 @@ body {
   display: flex;
 }
 
+/* Style the logo for the nav bar */
 .logo {
   margin-right: auto;
   display: inline-block;
 }
 
+/* Style the logo width for the nav bar */
 .logo img {
   width: 150px;
   vertical-align: 
 }
 
+/* Style the list items in the nav bar */
 .nav li {
   font-size: 20px;
 }
 
+/* Style the hyperlinks within the list items */
 .nav li a {
   color: #fff;
   text-align: center;
@@ -258,10 +262,12 @@ body {
   
 }
 
+/* Style all the non-active hovered links */
 .nav li a:hover:not(.active) {
   background-color: #111;
 }
 
+/* Style the active link to denote what page the viewer is on */
 .active {
   background-color: #fd7a43;
 }

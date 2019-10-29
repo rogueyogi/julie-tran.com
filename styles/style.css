@@ -231,6 +231,10 @@ nav {
   background-color: #212529;
 }
 
+.navbar ul {
+  display: flexbox;
+}
+
 
 /*
     ========================

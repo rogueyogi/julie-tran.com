@@ -228,50 +228,7 @@ body {
 */
 
 /* Style the nav bar */
-.nav {
-  background-color: #565656;
-  overflow: hidden;
-  justify-content: flex-end;
-  display: flex;
-}
 
-/*  
-.nav ul {
-  background-color: #565656;
-  overflow: hidden;
-  justify-content: flex-end;
-  display: flex;
-}
-*/
-
-/* Style the logo for the nav bar */
-.logo {
-  margin-right: auto;
-}
-
-/* Style the list items in the nav bar */
-.nav li {
-  font-size: 20px;
-}
-
-/* Style the hyperlinks within the list items */
-.nav li a {
-  color: #fff;
-  text-align: center;
-  display: inline-block;
-  text-decoration: none;
-  padding: 14px 16px;
-}
-
-/* Style all the non-active hovered links */
-.nav li a:hover:not(.active) {
-  background-color: #111;
-}
-
-/* Style the active link to denote what page the viewer is on */
-.active {
-  background-color: #fd7a43;
-}
 
 /*
     ========================

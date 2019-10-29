@@ -320,7 +320,6 @@ nav {
 .flex-container {
   display: flex;
   justify-content: center;
-  background-color: #fd7a43;
 }
 
 .flex-container > div {

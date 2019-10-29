@@ -229,12 +229,9 @@ body {
 
 nav {
   background-color: #212529;
+  display: flex;
 }
 
-.navbar ul {
-  display: flexbox;
-  flex-direction: row;
-}
 
 
 /*

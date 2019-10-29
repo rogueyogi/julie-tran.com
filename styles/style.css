@@ -233,7 +233,14 @@ nav {
   justify-content: space-between;
 }
 
+.nav-links {
+  display: flex;
+}
 
+.nav-items {
+  color: white;
+  font-size: 30px;
+}
 
 /*
     ========================

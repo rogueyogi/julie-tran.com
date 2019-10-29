@@ -245,6 +245,11 @@ nav {
   text-decoration: none;
 }
 
+.active {
+  background-color: #fd7a43;
+  color: white;
+}
+
 /*
     ========================
     Header/Hero

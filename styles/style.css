@@ -305,14 +305,13 @@ nav {
     3-part menu in flex container
     ================================= 
 */
-/*
+
 .services-container {
   justify-content: center;
   background-color: #fd7a43;
   color: white;
   text-align: center;
 }
-*/
 
 .services-container > h1 {
   color: white;
@@ -320,16 +319,17 @@ nav {
 
 .flex-container {
   display: flex;
+  justify-content: center;
+  background-color: #fd7a43;
 }
 
 .flex-container > div {
   width: 300px;
   margin: 20px;
   padding: 20px;
+  text-align: center;
   font-size: 30px;
   color: white;
-  text-align: center;
-  justify-content: center;
 }
 
 /*  

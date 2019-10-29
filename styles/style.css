@@ -310,6 +310,11 @@ nav {
   justify-content: center;
   background-color: #fd7a43;
   color: white;
+  text-align: center;
+}
+
+.services-container > h1 {
+  color: white;
 }
 
 .flex-container {
@@ -320,7 +325,6 @@ nav {
   width: 300px;
   margin: 20px;
   padding: 20px;
-  text-align: center;
   font-size: 30px;
   color: white;
 }

@@ -242,6 +242,10 @@ nav {
   font-size: 30px;
 }
 
+.nav-item a {
+  padding: 10px 15px;
+}
+
 /*
     ========================
     Header/Hero

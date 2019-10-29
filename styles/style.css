@@ -312,6 +312,10 @@ nav {
   background-color: #fd7a43;
 }
 
+.flex-container > h1 {
+  color: white;
+}
+
 .flex-container > div {
   width: 300px;
   margin: 20px;

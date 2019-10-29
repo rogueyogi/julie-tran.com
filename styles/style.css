@@ -306,14 +306,14 @@ nav {
     ================================= 
 */
 
-.flex-container {
-  display: flex;
+.services-container {
   justify-content: center;
   background-color: #fd7a43;
+  color: white;
 }
 
-.flex-container > h1 {
-  color: white;
+.flex-container {
+  display: flex;
 }
 
 .flex-container > div {

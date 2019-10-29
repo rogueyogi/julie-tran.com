@@ -237,7 +237,7 @@ nav {
   display: flex;
 }
 
-.nav-items {
+.nav-item {
   color: white;
   font-size: 30px;
 }

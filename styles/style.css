@@ -237,7 +237,7 @@ nav {
   display: flex;
 }
 
-.nav-item a {
+.nav-item {
   font-size: 30px;
 }
 

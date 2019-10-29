@@ -233,6 +233,7 @@ nav {
 
 .navbar ul {
   display: flexbox;
+  flex-direction: row;
 }
 
 

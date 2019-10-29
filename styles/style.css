@@ -237,13 +237,10 @@ nav {
   display: flex;
 }
 
-.nav-item {
-  color: white;
-  font-size: 30px;
-}
-
 .nav-item a {
   padding: 10px 15px;
+  color: white;
+  font-size: 30px;
 }
 
 /*

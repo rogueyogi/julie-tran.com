@@ -347,3 +347,7 @@ body {
 h1, h2, h3, h4, h5, h6, p, blockquote {
 padding: 20px;
 }
+
+.light-gray-background {
+  background-color: whitesmoke;
+}

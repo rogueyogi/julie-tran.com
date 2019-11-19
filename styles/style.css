@@ -351,3 +351,13 @@ padding: 20px;
 .light-gray-background {
   background-color: whitesmoke;
 }
+
+/*  
+    ========================
+    footer
+    ======================== 
+*/
+
+.footer-background {
+  background-color: black;
+}

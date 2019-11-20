@@ -318,12 +318,12 @@ nav {
   color: white;
 }
 
-.flex-container {
+.three-part-flex-container {
   display: flex;
   justify-content: center;
 }
 
-.flex-container > div {
+.three-part-flex-container > div {
   width: 300px;
   margin: 20px;
   padding: 20px;

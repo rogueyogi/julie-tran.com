@@ -352,6 +352,10 @@ padding: 20px;
   background-color: whitesmoke;
 }
 
+.align-right {
+  align-content: right;
+}
+
 /*  
     ========================
     footer
